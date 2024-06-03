@@ -9,7 +9,6 @@
     Output: 13
 
 Explanation:
-
     The ASCII values of the characters
     in s are: 'h' = 104, 'e' = 101, 'l' = 108,
     'o' = 111. So, the score of s would be
